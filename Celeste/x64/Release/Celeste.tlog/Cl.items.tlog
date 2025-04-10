@@ -1,0 +1,14 @@
+C:\Users\Snow\Music\Celeste\Celeste\Celeste\dllmain.cpp;C:\Users\Snow\Music\Celeste\Celeste\Celeste\x64\Release\dllmain.obj
+C:\Users\Snow\Music\Celeste\Celeste\Celeste\includes\ImGui\imgui_impl_opengl3.cpp;C:\Users\Snow\Music\Celeste\Celeste\Celeste\x64\Release\imgui_impl_opengl3.obj
+C:\Users\Snow\Music\Celeste\Celeste\Celeste\includes\ImGui\imgui_impl_win32.cpp;C:\Users\Snow\Music\Celeste\Celeste\Celeste\x64\Release\imgui_impl_win32.obj
+C:\Users\Snow\Music\Celeste\Celeste\Celeste\me\snow\gui\GUI.cpp;C:\Users\Snow\Music\Celeste\Celeste\Celeste\x64\Release\GUI.obj
+C:\Users\Snow\Music\Celeste\Celeste\Celeste\me\snow\gui\Hook.cpp;C:\Users\Snow\Music\Celeste\Celeste\Celeste\x64\Release\Hook.obj
+C:\Users\Snow\Music\Celeste\Celeste\Celeste\me\snow\modules\Manager.cpp;C:\Users\Snow\Music\Celeste\Celeste\Celeste\x64\Release\Manager.obj
+C:\Users\Snow\Music\Celeste\Celeste\Celeste\me\snow\modules\Modules.cpp;C:\Users\Snow\Music\Celeste\Celeste\Celeste\x64\Release\Modules.obj
+C:\Users\Snow\Music\Celeste\Celeste\Celeste\me\snow\modules\Player\FastPlace\FastPlace.cpp;C:\Users\Snow\Music\Celeste\Celeste\Celeste\x64\Release\FastPlace.obj
+C:\Users\Snow\Music\Celeste\Celeste\Celeste\me\snow\sdk\mapper\mapper.cpp;C:\Users\Snow\Music\Celeste\Celeste\Celeste\x64\Release\mapper.obj
+C:\Users\Snow\Music\Celeste\Celeste\Celeste\me\snow\jvm\jvm.cpp;C:\Users\Snow\Music\Celeste\Celeste\Celeste\x64\Release\jvm.obj
+C:\Users\Snow\Music\Celeste\Celeste\Celeste\me\snow\sdk\classes\classes.cpp;C:\Users\Snow\Music\Celeste\Celeste\Celeste\x64\Release\classes.obj
+C:\Users\Snow\Music\Celeste\Celeste\Celeste\me\snow\sdk\minecraft\Minecraft.cpp;C:\Users\Snow\Music\Celeste\Celeste\Celeste\x64\Release\Minecraft.obj
+C:\Users\Snow\Music\Celeste\Celeste\Celeste\me\snow\sdk\minecraft\player\Entity.cpp;C:\Users\Snow\Music\Celeste\Celeste\Celeste\x64\Release\Entity.obj
+C:\Users\Snow\Music\Celeste\Celeste\Celeste\me\snow\sdk\minecraft\server\Server.cpp;C:\Users\Snow\Music\Celeste\Celeste\Celeste\x64\Release\Server.obj
